@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "NOW LOADING",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-15T13:39:01.678305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now loading...SKY!!",
+      "artist": "スフィア",
+      "has_synced": true,
+      "path": "select/01_Now_loading...SKY!!_スフィア.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Now loading...SKY!!",
+      "artist": "Sphere",
+      "has_synced": true,
+      "path": "select/02_Now_loading...SKY!!_Sphere.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Now Loading",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/03_Now_Loading_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Now Loading",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/04_Now_Loading_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Now Loading!!!!",
+      "artist": "fourfolium",
+      "has_synced": true,
+      "path": "select/05_Now_Loading!!!!_fourfolium.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Now Loading",
+      "artist": "ましのみ",
+      "has_synced": true,
+      "path": "select/06_Now_Loading_ましのみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Now Loading",
+      "artist": "Mashinomi",
+      "has_synced": true,
+      "path": "select/07_Now_Loading_Mashinomi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Now loading...SKY!!",
+      "artist": "スフィア",
+      "has_synced": true,
+      "path": "select/08_Now_loading...SKY!!_スフィア.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOW LOADING",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_NOW_LOADING_マカロニえんぴつ.txt"
+    }
+  ]
+}
